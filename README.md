@@ -19,4 +19,4 @@ The Model Planning and Building phase involved the selection of appropriate mode
 
 Results and Performance evaluation demonstrated that logistic regression outperformed other models in terms of accuracy, recall, precision, and area under the curve (AUC). 
 # Setting up and Running the Project:
-Download the R code (Project_v1.R) from this repository and dataset from the Kaggle source and press Command + Return key to execute each command.
+Download the R code (Project_v1.R) from this repository and dataset from the Kaggle source. Open the R code file in RStudio and set the working directory in Rstudio to the location of the downloaded dataset. Press Command + Return key to execute each command.
