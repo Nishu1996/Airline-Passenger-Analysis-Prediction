@@ -10,3 +10,5 @@ Various techniques, such as data summarization, handling missing values, outlier
 The Model Planning and Building phase involved the selection of appropriate models for the binary classification task of predicting passenger satisfaction. Logistic Regression, Decision Tree, and Naive Bayes models were chosen, each offering unique advantages.
 # Conclusion and Observation: 
 Results and Performance evaluation demonstrated that logistic regression outperformed other models in terms of accuracy, recall, precision, and area under the curve (AUC). 
+# Setting up and Running the Project:
+Download the R code and dataset and press Command + Return key to execute each command
