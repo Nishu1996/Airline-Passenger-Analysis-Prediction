@@ -3,7 +3,7 @@ Forecasting passenger satisfaction in the airline industry
 The "Airline Passenger Satisfaction Prediction" project focuses on gaining insights and predicting passenger satisfaction within the airline industry. Understanding the pivotal role of passenger contentment in shaping brand perception and financial success, this initiative employs data analytics to make well-informed predictions. The project comprises four primary phases: Introduction, Discovery and Data Preparation, Model Planning and Building.
 
 # Data Source: 
-Kaggle
+Kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 # Data Cleaning Phase: 
 Various techniques, such as data summarization, handling missing values, outlier removal, and correlation analysis, were applied. 
 # Model Panning and Building Phase: 
@@ -19,4 +19,4 @@ The Model Planning and Building phase involved the selection of appropriate mode
 
 Results and Performance evaluation demonstrated that logistic regression outperformed other models in terms of accuracy, recall, precision, and area under the curve (AUC). 
 # Setting up and Running the Project:
-Download the R code (Project_v1.R) and dataset and press Command + Return key to execute each command
+Download the R code (Project_v1.R) from this repository and dataset from the Kaggle source and press Command + Return key to execute each command.
